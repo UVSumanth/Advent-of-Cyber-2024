@@ -29,6 +29,6 @@ Understanding Anomalies: Learned to identify deviations from normal patterns and
 Critical Thinking in Security Analysis: Developed the ability to question results and cross-check details to avoid jumping to conclusions.
 Importance of Context: Recognized how context is crucial in distinguishing between legitimate and suspicious activities.
 
-### 5. Essential lessons
+### 5. Achievement
 Completing Day 2’s task enhanced my understanding of log analysis and its importance in cybersecurity. I gained practical experience using tools to investigate and interpret logs, a foundational skill for monitoring systems and identifying potential threats. By understanding the balance between false positives and false negatives, I improved my ability to assess risk and prioritize security efforts effectively.
 This task reinforced the importance of thorough analysis and the value of a methodical approach to cybersecurity investigations. It serves as a strong step forward in my learning journey.
