@@ -45,4 +45,4 @@ Learning how early detection of IoCs can prevent further compromise.
 The importance of isolating infected systems and analyzing malware in controlled environments.
 
 ### 5. Achievement
-Day 6 provided valuable insights into the lifecycle of malware and how to analyze it effectively. By leveraging both static and dynamic analysis techniques, I was able to identify suspicious characteristics, observe malware behavior, and understand how to mitigate its impact. The task reinforced the importance of continuous vigilance and the role of proactive detection in preventing cyber threats.
+Day 6 provided valuable insights into the lifecycle of malware and how to analyze it effectively. By leveraging both static and dynamic analysis techniques, I was able to identify suspicious characteristics, observe malware behavior, and understand how to mitigate its impact. The task reinforced the importance of continuous vigilance and the role of proactive detection in preventing cyber threats
