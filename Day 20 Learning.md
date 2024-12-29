@@ -8,8 +8,10 @@ Day 20 revolved around analyzing network traffic to identify anomalies, trace ma
 ### 2. Tools Used:
 Wireshark:
 Used to capture and analyze packets, filter specific traffic, and dissect protocol details.
+
 Traffic Filters:
 Applied filters to isolate relevant packets for detailed investigation.
+
 Command-Line Tools:
 Leveraged lightweight utilities for capturing and processing network data when appropriate.
 
@@ -26,10 +28,13 @@ Spotting irregularities in traffic patterns that could indicate malicious behavi
 ### 4. Skills and Lessons Learned:
 Packet Analysis:
 Gained hands-on experience with dissecting packets to uncover valuable details such as source/destination IPs, ports, and payload data.
+
 Identifying Malicious Behavior:
 Learned to recognize signs of common attack vectors, including suspicious connections, data leaks, and protocol misuse.
+
 Filtering Techniques:
 Practiced using filters to focus on specific traffic, enhancing efficiency in analyzing large packet captures.
+
 Security Awareness:
 Developed a deeper understanding of how network monitoring plays a vital role in detecting and responding to cyber threats.
 
