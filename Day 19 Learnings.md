@@ -26,10 +26,13 @@ Best practices for storing secrets, such as using environment variables, secure 
 ### 4. Skills and Lessons Learned:
 Identifying Vulnerabilities:
 Developed skills to locate improperly stored secrets in codebases and configuration files.
+
 Mitigating Risks:
 Practiced securing sensitive information by applying encryption, access control, and secure storage mechanisms.
+
 Understanding Attacker Methods:
 Learned how attackers discover exposed secrets, reinforcing the importance of proactive security measures.
+
 Secure Development Practices:
 Enhanced understanding of incorporating secure secrets management into the software development lifecycle.
 
